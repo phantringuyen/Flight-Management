@@ -36,3 +36,8 @@
 
 ###### i.`PHANCONG(MANV, NGAYDI, MACB)`
 - Describre: Employees are assigned to one or more flight schedules. Usually for pilots, they have to be assigned to fly aircraft that are suitable for their ability.
+
+
+#### 2/ Database Schema in the form of a figure
+
+![image](https://user-images.githubusercontent.com/74893651/194017415-2687839a-e752-4da8-bebb-58c531ce190b.png)
